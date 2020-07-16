@@ -1,0 +1,9 @@
+﻿  그리기클라이언트.cpp
+C:\Users\박진수\source\그리기프로젝트\그리기클라이언트\그리기클라이언트\그리기클라이언트.cpp(282,18): warning C4101: 'header' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+C:\Users\박진수\source\그리기프로젝트\그리기클라이언트\그리기클라이언트\CRingBuffer.cpp(93): warning C4715: 'CRingBuffer::Peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  11 of 20 functions (55.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  그리기클라이언트.vcxproj -> C:\Users\박진수\source\그리기프로젝트\그리기클라이언트\x64\Release\그리기클라이언트.exe
